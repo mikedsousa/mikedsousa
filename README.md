@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mike de Sousa</h1>
-<h3 align="center">A enthusiast frontend developer from Rio, Brazil</h3>
+<h3 align="center">A enthusiast frontend developer from Brazil</h3>
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
