@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript/React<br>🎯 Goals: Get my first job as a programmer<br>🎲 Fun fact: Dungeon Master since 2021</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java/Python<br>🎯 Goals: Get my first job as a programmer<br>🎲 Fun fact: Dungeon Master since 2021</p>
 
 ###
 
