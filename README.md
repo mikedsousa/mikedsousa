@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java/Python<br>🎯 Goals: Get my first job as a programmer<br>🎲 Fun fact: Dungeon Master since 2021</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java<br>🎯 Goals: Get my first job as a programmer<br>🎲 Fun fact: Dungeon Master since 2021</p>
 
 ###
 
@@ -31,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
