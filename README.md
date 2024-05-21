@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Mike from Rio de Janeiro<br><br>- 🔭 I'm working as a volunteer at Alura Latam<br>- 📚 I'm currently learning Python/MongoDB<br>- ⚡ In my free time I like to play D&D</p>
+<p align="left">I'm Mike from Rio de Janeiro<br><br>- 🔭 I'm working as a volunteer at Alura Latam<br>- 📚 I'm currently learning Typescript<br>- ⚡ In my free time I like to play D&D</p>
 
 ###
 
