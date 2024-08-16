@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is Mike and I'm a Frontend Developer, from Rio de Janeiro, Brazil</h2>
+<h1 align="left">hello there 👋!</h1>
+
+###
+
+<p align="left">Meu nome é Mike de Sousa, um estudante de programação Front-end com um objetivo bem definido: conquistar meu espaço no mercado. Estou sempre buscando aprender e me aprimorar, explorando novas tecnologias e desenvolvendo minhas habilidades.</p>
+
+###
+
+<p align="left">Atualmente cursando o programa de formação frontend da <a href="https://vainaweb.com.br/" target="_blank">Vai na Web</a> Os projetos do curso podem ser encontrados nesse <a href="https://github.com/mikedsousa/atividades-vai-na-web-modulo-1"  target="_blank">repositório</a>.</p>
 
 ###
 
@@ -44,6 +52,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://medium.com/@mikedesousa92" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
 </div>
 
 ###
