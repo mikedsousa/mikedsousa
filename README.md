@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Atualmente cursando o programa de formação frontend da <a href="https://vainaweb.com.br/" target="_blank">Vai na Web</a> Os projetos do curso podem ser encontrados nesse <a href="https://github.com/mikedsousa/atividades-vai-na-web-modulo-1"  target="_blank">repositório</a>.</p>
+<p align="left">Atualmente cursando o programa de formação frontend da <a href="https://vainaweb.com.br/" target="_blank">Vai na Web</a>. Os projetos do curso podem ser encontrados nesse <a href="https://github.com/mikedsousa/atividades-vai-na-web-modulo-1"  target="_blank">repositório</a>.</p>
 
 ###
 
