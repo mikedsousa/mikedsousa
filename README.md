@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Atualmente cursando o programa de formação frontend da <a href="https://vainaweb.com.br/" target="_blank">Vai na Web</a>. Os projetos do curso podem ser encontrados nesse <a href="https://github.com/mikedsousa/atividades-vai-na-web-modulo-1"  target="_blank">repositório</a>.</p>
+<p align="left">Atualmente, trabalho como suporte educacional na <a href="https://www.alura.com.br/" target="_blank">Alura</a>, ajudando alunos e alunas a navegarem pelos desafios da programação e a se desenvolverem nas áreas de Front-end, Mobile e Inteligência Artificial.</p>
 
 ###
 
